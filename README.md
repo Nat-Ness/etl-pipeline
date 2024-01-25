@@ -1,7 +1,7 @@
 ##  ETL Pipelene
 by Natness
 
-<img src="![ETL pipeline](screenshot.png)"/>
+![](screenshot.png)
 
 ### Introduction
 
