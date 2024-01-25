@@ -2,6 +2,8 @@
 by Natness
 ![](C:\Users\Admin\Desktop\Bootcamp\W19\screenshot.png)
 
+
+
 ### Introduction
 
 This repository guides users through each step of building an ETL pipeline.
@@ -9,7 +11,6 @@ This repository guides users through each step of building an ETL pipeline.
 ETL is a process that extracts, transforms, and loads data from multiple sources into a data warehouse or other unified data repository.
 
 This project has 3 main steps:
-
 
 1) Extracting data from Amazon Redshift (includes connection codes to Redshift) extract.py
 
